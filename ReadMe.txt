@@ -1,1 +1,1 @@
-Added more content
+I love git conficts 
