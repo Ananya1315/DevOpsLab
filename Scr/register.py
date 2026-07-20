@@ -4,5 +4,5 @@ email = input("Enter email ID :")
 password = input("Enter password: ")
 number=input("Enter Mobile number: ")
 
-print("Registartion done")
+print("user registartion done")
 
